@@ -1,2 +1,3 @@
 # hello-world
-Leraning waht GitHub is all about
+Learning what GitHub is all about
+I am an old git.
